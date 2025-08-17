@@ -37,10 +37,6 @@ This document highlights key findings from the dataset.
 1. **Countplot** → On-time vs Delayed Deliveries  
 2. **Histogram** → Distribution of Delivery Time (hours)  
 
-Images
-![countplot](images/countplot.png)
-![Histogram](images/Histogram.png)
- 
 
 ---
 
