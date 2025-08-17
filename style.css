@@ -1,0 +1,45 @@
+:root {
+  --brand: #0d6efd;
+}
+
+body {
+  background: #f6f7fb;
+}
+
+.navbar .navbar-brand {
+  letter-spacing: 0.2px;
+}
+
+.card .card-title {
+  font-weight: 700;
+}
+
+.mini.stat {
+  padding: 14px 16px;
+  background: #f9fafb;
+  border: 1px solid #eef0f4;
+  border-radius: 14px;
+  text-align: center;
+}
+.mini.stat .label {
+  font-size: 0.8rem;
+  color: #6b7280;
+}
+.mini.stat .value {
+  font-size: 1.75rem;
+  font-weight: 800;
+  line-height: 1;
+  margin-top: 6px;
+}
+
+.btn-primary {
+  background: var(--brand);
+  border-color: var(--brand);
+  border-radius: 12px;
+  font-weight: 600;
+}
+
+.form-control,
+.form-select {
+  border-radius: 12px;
+}
