@@ -29,18 +29,21 @@ We used `train.csv` which contains:
    ```bash
    git clone https://github.com/yourusername/product_delivery_time.git
    cd product_delivery_time
+   
 2.Run Flask app:
     python app.py
+    
 3.Open in browser:
     http://127.0.0.1:5000/
 
-##Exploratory Data Analysis
-Check analysis.md for detailed EDA insights with graphs.
+##Exploratory Data Analysis:  
+Check **analysis.md** for detailed EDA insights with graphs.
 
 📸 Screenshots-Output
 (<img width="1919" height="1079" alt="Delievery_time_output" src="https://github.com/user-attachments/assets/7671c41e-7e2b-4920-9f93-eeb51c72908c" />)
 
-##Future Improvements
+
+##Future Improvements  
 Deploy on Streamlit / Heroku / Render
 Add real-time data integration
 Improve model accuracy with feature engineering
