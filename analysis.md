@@ -3,7 +3,7 @@
 
 ## analysis.md  
 
-```markdown
+markdown
 # Exploratory Data Analysis (EDA) – Delivery Time Prediction
 
 This document highlights key findings from the dataset.
@@ -38,8 +38,9 @@ This document highlights key findings from the dataset.
 2. **Histogram** → Distribution of Delivery Time (hours)  
 
 Images
--Countplot  <img width="755" height="537" alt="countplot" src="https://github.com/user-attachments/assets/09302883-5f4e-4db5-b608-5155584a317a" />  
--Histogram  <img width="744" height="541" alt="Histogram" src="https://github.com/user-attachments/assets/b2080cc3-890c-46f4-b436-429974c9e152" />  
+![countplot](images/countplot.png)
+![Histogram](images/Histogram.png)
+ 
 
 ---
 
