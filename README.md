@@ -44,6 +44,6 @@ Check **analysis.md** for detailed EDA insights with graphs.
 
 
 ##Future Improvements  
-Deploy on Streamlit / Heroku / Render
-Add real-time data integration
-Improve model accuracy with feature engineering
+-Deploy on Streamlit / Heroku / Render  
+-Add real-time data integration  
+-Improve model accuracy with feature engineering
